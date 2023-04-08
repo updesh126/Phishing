@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phishing</string>
+    <string name="accessibility_description">Gets HTTP Links and URLS from apps</string>
+</resources>
